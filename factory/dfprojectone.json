@@ -1,0 +1,9 @@
+{
+	"name": "dfprojectone",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f3473399-54e7-4760-b043-494d2e5c2225",
+		"tenantId": "5bd6bc69-188f-4c06-a5bc-14e00d4ce43c"
+	}
+}
